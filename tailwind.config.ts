@@ -21,6 +21,10 @@ module.exports = {
           400: '#facc15',
         },
       },
+      fontFamily: {
+        sans: ['var(--font-inter)'],
+        serif: ['var(--font-playfair)'],
+      },
     },
   },
   plugins: [],
