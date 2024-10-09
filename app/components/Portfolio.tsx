@@ -113,6 +113,6 @@ const projects = [
     description: "Sit back and just vibe to the visuals and music",
     technologies: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/sambit826059/armonia",
-    deployment: "https://armonia-demo.netlify.app",
+    deployment: "https://armonia-seven.vercel.app/",
   },
 ]
