@@ -82,7 +82,6 @@ export default function Portfolio() {
 const skills = [
   "JavaScript",
   "TypeScript",
-  "Rust",
   "React",
   "Node.js",
   "Next.js",
