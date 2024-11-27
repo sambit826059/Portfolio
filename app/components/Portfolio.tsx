@@ -98,7 +98,7 @@ const projects = [
     name: "Blogging App",
     description: "Medium clone.",
     technologies: ["TypeScript", "Cloudflare", "Zod", "Prisma", "Postgres", "JWT"],
-    github: "https://github.com/sambit826059/blogging-app",
+    github: "https://github.com/sambit826059/blogging-page",
     deployment: "https://blogging-app-demo.vercel.app",
   },
   {
